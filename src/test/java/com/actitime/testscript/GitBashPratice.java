@@ -8,4 +8,9 @@ public class GitBashPratice {
 	public void demo() {
 		System.out.println("vkjdbvksdj");
 	}
+	
+	@Test
+	public void demo1() {
+		System.out.println("nkjdffbkjv");
+	}
 }
